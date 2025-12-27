@@ -38,7 +38,7 @@ Hi 👋, I'm **Deepak Gupta**— a passionate Software Engineer and **JAVA Devel
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/deepak-gupta-030868329)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://x.com/AyushSa81632876?t=6EmmpX7czOd3fglcZLzgOA&s=09](https://x.com/ANURAGV52523843?t=GnnDNcnVyWTBrUbPQieoCQ&s=09))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_saxena_ayush_740/?hl=en) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deepakgupta281202/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakkumarguptasma28@gmail.com) 
 
 <!-- Snake Game Repo View -->
